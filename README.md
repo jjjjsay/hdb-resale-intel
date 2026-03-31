@@ -95,3 +95,65 @@ Dashboard components:
 - downloadable CSV export
 - price-per-sqm charts
 - transaction location map
+
+## Skills
+### Programming & Analytics
+- Python
+- Pandas
+- NumPy
+- Statistics
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+
+### Data Visualisation
+- Streamlit
+- Plotly
+- Matplotlib
+
+### Geospatial Analytics
+- Latitude/Longitude processing
+- Haversine distance calculation
+- Map Visualisation
+
+### Data Pipeline
+- ETL Workflow design
+- modular Python scripts
+- reusable transformation functions
+
+## Results & Business Recommendation
+### Key Findings
+- Central areas show significantly higher price per sqm premiums
+- MRT proximity contributes to stronger resale pricing
+- A larger floor area does not always translate linearly into a higher price per sqm
+- Older lease flats show clear discounting patterns
+- Certain towns present potential undervalued opportunities
+
+## Business Recommendations
+### For Home Buyers
+Prioritise flats near MRT nodes for better long-term retention
+### For Investors
+Identify towns with below-average price-per-sqm despite strong transport accessibility
+### For Policy/Urban Planning
+Use transaction density and amenity distances insights to guide future infrastructure development
+
+## Next Steps
+Future enhancement planned:
+### 1. Predictive Pricing Model
+Built a machine learning model to predict resale price based on:
+- location
+- floor area
+- lease age
+- proximity metrics
+### 2. Time-Series Price Forecasting
+Forecast future HDB price trends by town.
+### 3. API Automation
+Automate data refresh directly from public APIs
+### 4. Advanced Spatial Analysis
+Include:
+- CBD distance
+- mall distance
+- school ranking proximity
+- transport network accessibility
+- amenities distance
+
